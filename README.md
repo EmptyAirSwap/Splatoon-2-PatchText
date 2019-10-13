@@ -1,4 +1,4 @@
-# Splatoon-2-PatchText
+# Splatoon 2 Mods
 This Website host PatchText for Splatoon 2
 
 ## How To Use (Noob Guide)
